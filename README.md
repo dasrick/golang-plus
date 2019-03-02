@@ -9,6 +9,6 @@ Docker image of golang extended with some useful tools:
 
 * dep
 * golint
-* zip
+* zip/unzip
 
 ***

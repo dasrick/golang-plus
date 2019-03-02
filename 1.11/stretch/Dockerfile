@@ -1,4 +1,4 @@
-FROM golang:1.12-stretch
+FROM golang:1.11-stretch
 
 MAINTAINER Enrico Hoffmann <dasrick@gmail.com>
 
