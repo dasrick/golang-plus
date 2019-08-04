@@ -1,10 +1,8 @@
-[![Docker Pulls][dockerpull-image]][dockerpull-url]
-[![Docker Image Size][dockerimagesize-image]][dockerimagesize-url]
-[![MicroBadger Layers][dockerimagelayer-image]][dockerimagelayer-url]
+[![MicroBadger][microbadger-image]][microbadger-url]
 
 ***
 
-# Golang plus
+# dasrick/golang-plus:1.12
 
 Official docker image of golang extended with some useful tools like
 
@@ -18,11 +16,5 @@ Bases on `golang:1.12-stretch`.
 
 ***
 
-[dockerimagesize-image]: https://img.shields.io/microbadger/image-size/dasrick/golang-plus/1.12.svg?style=flat-square
-[dockerimagesize-url]: https://hub.docker.com/r/dasrick/golang-plus
-
-[dockerimagelayer-image]: https://img.shields.io/microbadger/layers/dasrick/golang-plus/1.12.svg?style=flat-square
-[dockerimagelayer-url]: https://hub.docker.com/r/dasrick/golang-plus
-
-[dockerpull-image]: https://img.shields.io/docker/pulls/dasrick/golang-plus.svg?style=flat-square
-[dockerpull-url]: https://hub.docker.com/r/dasrick/golang-plus
+[microbadger-image]: https://images.microbadger.com/badges/image/dasrick/golang-plus:1.12.svg
+[microbadger-url]: https://microbadger.com/images/dasrick/golang-plus:1.12
