@@ -12,6 +12,7 @@ Official docker image of golang extended with some useful tools like
 * dep
 * golint
 * zip/unzip
+* golangci-lint (golang >= 1.13.5)
 
 Currently all images based on `golang:<version>-stretch` image
 
@@ -29,7 +30,10 @@ Example: `docker pull dasrick/golang-plus:1.13.3`
 
 ## Release History
 
-A detailed history of golang can be found [here](https://golang.org/doc/devel/release.html).
+A detailed history of golang can be found [here](https://golang.org/doc/devel/release.html). 
+* [go.1.13 minor](https://golang.org/doc/devel/release.html#go1.13.minor)
+* [go.1.12 minor](https://golang.org/doc/devel/release.html#go1.12.minor)
+* [go.1.11 minor](https://golang.org/doc/devel/release.html#go1.11.minor)
 
 ***
 
