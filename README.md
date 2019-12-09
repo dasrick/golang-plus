@@ -17,11 +17,11 @@ Currently all images based on `golang:<version>-stretch` image
 
 ## Tags
 
-* `1.13.4`, `1.13`, `latest`
-* `1.13.0` ... `1.13.4`
-* `1.12.13`, `1.12`
-* `1.12.0` ... `1.12.13`
-* `1.11`
+* shared tags: `1.13`, `latest` => `1.13.5`
+* `1.13.0` ... `1.13.5`
+* shared tags: `1.12` => `1.12.14`
+* `1.12.0` ... `1.12.14`
+* shared tags: `1.11` => `1.11.13`
 
 ## Usage
 
