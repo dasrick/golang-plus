@@ -9,7 +9,7 @@ Official docker image of golang extended with some useful tools like
 * dep
 * golint
 * zip/unzip
-* golangci-lint (golang >= 1.13.5)
+* golangci-lint
 
 ## Details
 
