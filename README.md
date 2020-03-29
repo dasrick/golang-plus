@@ -18,11 +18,14 @@ Currently all images based on `golang:<version>-stretch` image
 
 ## Tags
 
-* shared tags: `1.13`, `latest` => `1.13.6`
-* `1.13.0` ... `1.13.6`
-* shared tags: `1.12` => `1.12.15`
-* `1.12.0` ... `1.12.15`
-* shared tags: `1.11` => `1.11.13`
+* shared tags: `latest` => latest `1.14.*`
+* shared tags: `1.14` => latest `1.14.*`
+* shared tags: `1.13` => latest `1.13.*`
+* shared tags: `1.12` => latest `1.12.*`
+* shared tags: `1.11` =>  `1.11.13`
+* `1.14.0` ... `1.14.1`
+* `1.13.0` ... `1.13.8`
+* `1.12.0` ... `1.12.17`
 
 ## Usage
 
@@ -31,6 +34,7 @@ Example: `docker pull dasrick/golang-plus:1.13.6`
 ## Release History
 
 A detailed history of golang can be found [here](https://golang.org/doc/devel/release.html). 
+* [go.1.14 minor](https://golang.org/doc/devel/release.html#go1.14.minor)
 * [go.1.13 minor](https://golang.org/doc/devel/release.html#go1.13.minor)
 * [go.1.12 minor](https://golang.org/doc/devel/release.html#go1.12.minor)
 * [go.1.11 minor](https://golang.org/doc/devel/release.html#go1.11.minor)
