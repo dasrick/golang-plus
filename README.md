@@ -9,7 +9,7 @@
 
 Official docker image of golang extended with some useful tools like
 
-* dep
+* dep (golang <= 1.13.*)
 * golint
 * zip/unzip
 * golangci-lint (golang >= 1.13.5)
@@ -18,7 +18,7 @@ Currently all images based on `golang:<version>-stretch` image
 
 ## Tags
 
-* shared tags: `latest` => latest `1.14.*`
+* shared tags: `latest` => latest `1.14`
 * shared tags: `1.14` => latest `1.14.*`
 * shared tags: `1.13` => latest `1.13.*`
 * shared tags: `1.12` => latest `1.12.*`
